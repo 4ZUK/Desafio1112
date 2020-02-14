@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 public class Aluno {
     public String nome;
     public String sobrenome;
@@ -8,11 +10,17 @@ public class Aluno {
         this.sobrenome = sobrenome;
         this.codAluno = codAluno;
     }
-    public Aluno() {
-        super();
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Aluno aluno = (Aluno) o;
+        return Objects.equals(codAluno, aluno.codAluno);
     }
 
-
-
-
+    @Override
+    public int hashCode() {
+        return Objects.hash(codAluno);
+    }
 }

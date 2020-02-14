@@ -1,4 +1,6 @@
-public class Professores {
+import java.util.Objects;
+
+public class Professor {
 
     public String nomeProf;
     public String sobrenomeProf;
@@ -6,10 +8,23 @@ public class Professores {
     public Integer codProf;
     public String especialidade;
     public Integer quantidadeHoras;
+
+
 //////////////////////////////////////////
 //////////////////////////////////////////
 
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Professor professor = (Professor) o;
+        return Objects.equals(codProf, professor.codProf);
+    }
 
+    @Override
+    public int hashCode() {
+        return Objects.hash(codProf);
+    }
 
 
 //////////////////////////////////////////
