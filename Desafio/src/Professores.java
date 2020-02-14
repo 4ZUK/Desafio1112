@@ -1,8 +1,22 @@
-public class Professor {
+public class Professores {
     public String nomeProf;
     public String sobrenomeProf;
     public Integer tempoDeCasa;
     public Integer codProf;
+    public String especialidade;
+    public Integer quantidadeHoras;
+
+//////////////////////////////////////////
+//////////////////////////////////////////
+
+    public void ProfessorTitular() {
+    }
+
+    public void ProfessorADJ() {
+    }
+
+//////////////////////////////////////////
+// //////////////////////////////////////
 
     public String getNomeProf() {
         return nomeProf;
@@ -35,8 +49,6 @@ public class Professor {
     public void setCodProf(Integer codProf) {
         this.codProf = codProf;
     }
-
-    public Professor() {
-        super();
-    }
 }
+
+

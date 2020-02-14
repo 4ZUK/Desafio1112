@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="829eb6d9-b51e-4786-a07e-4703c40a3128" name="Default Changelist" comment="Parte A e Parte B OK(?)">
-      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+    <list default="true" id="829eb6d9-b51e-4786-a07e-4703c40a3128" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ProfessorADJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfessorTITULAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Professor.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,25 +63,33 @@
       <option name="project" value="LOCAL" />
       <updated>1581689186457</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parte C ok">
+      <created>1581690227600</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581690227600</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Parte A e Parte B OK(?)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parte A e Parte B OK(?)" />
+    <MESSAGE value="Parte C ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parte C ok" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581690162830">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581690754488">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581690162830" />
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1581689259057">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581690754488" />
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1581690227110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581689259057" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1581689189677">
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581690227110" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1581690250520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581689189677" />
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581690250520" />
   </component>
 </project>
