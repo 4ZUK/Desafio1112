@@ -9,14 +9,12 @@ public class Professores {
 //////////////////////////////////////////
 //////////////////////////////////////////
 
-    public void ProfessorTitular() {
-    }
 
-    public void ProfessorADJ() {
-    }
+
 
 //////////////////////////////////////////
 // //////////////////////////////////////
+
 
     public String getNomeProf() {
         return nomeProf;
@@ -48,6 +46,22 @@ public class Professores {
 
     public void setCodProf(Integer codProf) {
         this.codProf = codProf;
+    }
+
+    public String getEspecialidade() {
+        return especialidade;
+    }
+
+    public void setEspecialidade(String especialidade) {
+        this.especialidade = especialidade;
+    }
+
+    public Integer getQuantidadeHoras() {
+        return quantidadeHoras;
+    }
+
+    public void setQuantidadeHoras(Integer quantidadeHoras) {
+        this.quantidadeHoras = quantidadeHoras;
     }
 }
 
