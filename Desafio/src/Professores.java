@@ -1,11 +1,11 @@
 public class Professores {
+
     public String nomeProf;
     public String sobrenomeProf;
     public Integer tempoDeCasa;
     public Integer codProf;
     public String especialidade;
     public Integer quantidadeHoras;
-
 //////////////////////////////////////////
 //////////////////////////////////////////
 
