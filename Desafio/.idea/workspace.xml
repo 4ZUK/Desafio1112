@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="829eb6d9-b51e-4786-a07e-4703c40a3128" name="Default Changelist" comment="Parte C ok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Professores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Professores.java" afterDir="false" />
-    </list>
+    <list default="true" id="829eb6d9-b51e-4786-a07e-4703c40a3128" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,30 +71,38 @@
       <option name="project" value="LOCAL" />
       <updated>1581691065917</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Inicializaçao do diagrama de classes">
+      <created>1581692123850</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581692123850</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Parte A e Parte B OK(?)" />
     <MESSAGE value="Parte C ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parte C ok" />
+    <MESSAGE value="Inicializaçao do diagrama de classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inicializaçao do diagrama de classes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581691705021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581691705021" />
-    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1581692123350">
+    <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1581692239230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581692123350" />
+    <state x="335" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581692239230" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1581692135110">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581692135110" />
-    <state x="490" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581692092400">
+    <state x="490" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581692269850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="490" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581692092400" />
+    <state x="490" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581692269850" />
   </component>
 </project>
