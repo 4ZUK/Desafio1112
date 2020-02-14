@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829eb6d9-b51e-4786-a07e-4703c40a3128" name="Default Changelist" comment="Parte A e Parte B OK(?)">
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +68,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Parte A e Parte B OK(?)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581689134838">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581690162830">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581689134838" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581690162830" />
     <state x="335" y="0" key="CommitChangelistDialog2" timestamp="1581689259057">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
